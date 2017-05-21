@@ -1,0 +1,22 @@
+{
+  "name": "deployngtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubhsingh/Deploy-ngTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubhsingh/Deploy-ngTest/issues"
+  },
+  "homepage": "https://github.com/kaustubhsingh/Deploy-ngTest#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
